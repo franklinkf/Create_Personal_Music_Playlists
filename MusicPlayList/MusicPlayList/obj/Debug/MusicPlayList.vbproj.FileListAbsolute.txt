@@ -1,0 +1,33 @@
+E:\Desktop\Music Playlists\MusicPlayList\MusicPlayList\bin\Debug\MusicPlayList.exe
+E:\Desktop\Music Playlists\MusicPlayList\MusicPlayList\bin\Debug\MusicPlayList.pdb
+E:\Desktop\Music Playlists\MusicPlayList\MusicPlayList\bin\Debug\MusicPlayList.xml
+E:\Desktop\Music Playlists\MusicPlayList\MusicPlayList\obj\Debug\MusicPlayList.vbprojResolveAssemblyReference.cache
+E:\Desktop\Music Playlists\MusicPlayList\MusicPlayList\obj\Debug\MusicPlayList.Form1.resources
+E:\Desktop\Music Playlists\MusicPlayList\MusicPlayList\obj\Debug\MusicPlayList.Resources.resources
+E:\Desktop\Music Playlists\MusicPlayList\MusicPlayList\obj\Debug\MusicPlayList.vbproj.GenerateResource.Cache
+E:\Desktop\Music Playlists\MusicPlayList\MusicPlayList\obj\Debug\MusicPlayList.exe
+E:\Desktop\Music Playlists\MusicPlayList\MusicPlayList\obj\Debug\MusicPlayList.xml
+E:\Desktop\Music Playlists\MusicPlayList\MusicPlayList\obj\Debug\MusicPlayList.pdb
+E:\Desktop\Music Playlists\MusicPlayList\MusicPlayList\bin\Debug\Oracle.DataAccess.dll
+D:\Google Drive\cbs\Source Code\Visual Basic\Music Playlists\MusicPlayList\MusicPlayList\obj\Debug\MusicPlayList.exe
+D:\Google Drive\cbs\Source Code\Visual Basic\Music Playlists\MusicPlayList\MusicPlayList\obj\Debug\MusicPlayList.xml
+D:\Google Drive\cbs\Source Code\Visual Basic\Music Playlists\MusicPlayList\MusicPlayList\obj\Debug\MusicPlayList.pdb
+D:\Google Drive\cbs\Source Code\Visual Basic\Music Playlists\MusicPlayList\MusicPlayList\bin\Debug\MusicPlayList.exe
+D:\Google Drive\cbs\Source Code\Visual Basic\Music Playlists\MusicPlayList\MusicPlayList\bin\Debug\MusicPlayList.pdb
+D:\Google Drive\cbs\Source Code\Visual Basic\Music Playlists\MusicPlayList\MusicPlayList\bin\Debug\MusicPlayList.xml
+D:\Google Drive\cbs\Source Code\Visual Basic\Music Playlists\MusicPlayList\MusicPlayList\bin\Debug\Oracle.DataAccess.dll
+D:\Google Drive\cbs\Source Code\Visual Basic\Music Playlists\MusicPlayList\MusicPlayList\obj\Debug\MusicPlayList.vbprojResolveAssemblyReference.cache
+D:\Google Drive\cbs\Source Code\Visual Basic\Music Playlists\MusicPlayList\MusicPlayList\obj\Debug\MusicPlayList.Form1.resources
+D:\Google Drive\cbs\Source Code\Visual Basic\Music Playlists\MusicPlayList\MusicPlayList\obj\Debug\MusicPlayList.Resources.resources
+D:\Google Drive\cbs\Source Code\Visual Basic\Music Playlists\MusicPlayList\MusicPlayList\obj\Debug\MusicPlayList.vbproj.GenerateResource.Cache
+C:\Users\frank\OneDrive\cbs\Source Code\Visual Basic\Music Playlists\MusicPlayList\MusicPlayList\obj\Debug\MusicPlayList.exe
+C:\Users\frank\OneDrive\cbs\Source Code\Visual Basic\Music Playlists\MusicPlayList\MusicPlayList\obj\Debug\MusicPlayList.xml
+C:\Users\frank\OneDrive\cbs\Source Code\Visual Basic\Music Playlists\MusicPlayList\MusicPlayList\obj\Debug\MusicPlayList.pdb
+C:\Users\frank\OneDrive\cbs\Source Code\Visual Basic\Music Playlists\MusicPlayList\MusicPlayList\bin\Debug\MusicPlayList.exe
+C:\Users\frank\OneDrive\cbs\Source Code\Visual Basic\Music Playlists\MusicPlayList\MusicPlayList\bin\Debug\MusicPlayList.pdb
+C:\Users\frank\OneDrive\cbs\Source Code\Visual Basic\Music Playlists\MusicPlayList\MusicPlayList\bin\Debug\MusicPlayList.xml
+C:\Users\frank\OneDrive\cbs\Source Code\Visual Basic\Music Playlists\MusicPlayList\MusicPlayList\bin\Debug\Oracle.DataAccess.dll
+C:\Users\frank\OneDrive\cbs\Source Code\Visual Basic\Music Playlists\MusicPlayList\MusicPlayList\obj\Debug\MusicPlayList.vbprojResolveAssemblyReference.cache
+C:\Users\frank\OneDrive\cbs\Source Code\Visual Basic\Music Playlists\MusicPlayList\MusicPlayList\obj\Debug\MusicPlayList.Form1.resources
+C:\Users\frank\OneDrive\cbs\Source Code\Visual Basic\Music Playlists\MusicPlayList\MusicPlayList\obj\Debug\MusicPlayList.Resources.resources
+C:\Users\frank\OneDrive\cbs\Source Code\Visual Basic\Music Playlists\MusicPlayList\MusicPlayList\obj\Debug\MusicPlayList.vbproj.GenerateResource.Cache
